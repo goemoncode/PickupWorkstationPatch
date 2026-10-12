@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<Name value="PickupWorkstationPatch" />
+	<DisplayName value="Pickup Workstation Patch" />
+	<Description value="Removes the restriction that prevents picking up workstations (like Forges or Workbenches) when they contain melted materials or crafted items." />
+	<Version value="1.0.0" />
+	<Author value="goemoncode" />
+	<Website value="" />
+</xml>

@@ -1,0 +1,3 @@
+<patch>
+  <setattribute xpath="//property[@class='Workstation']/../property[@name='TakeDelay']" name="value">8</setattribute>
+</patch>
